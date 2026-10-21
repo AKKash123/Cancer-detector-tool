@@ -12,7 +12,10 @@ Classical computer-vision pipeline, no training data required:
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
+## Live url
+```
+https://oralcancerdetector.streamlit.app/
+```
 ## Files
 - `processing.py`: OpenCV pipeline (importable, testable)
 - `app.py`: Streamlit interface with live parameter sliders
